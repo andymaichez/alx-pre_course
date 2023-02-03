@@ -1,2 +1,1 @@
-My first readme
-i am learning software engineering
+My first readme is up to date
